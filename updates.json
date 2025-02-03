@@ -1,31 +1,12 @@
 [
-    {
-        "title": "Aggiornamento 1",
-        "description": "Dettagli aggiornamento 1.",
-        "image": ""
-    },
-    {
-        "title": "Aggiornamento 2",
-        "description": "Dettagli aggiornamento 2."
-    }
-    {
-        "title": "Aggiornamento 3",
-        "description": "Dettagli aggiornamento 3.",
-        "image": ""
-    },
-    {
-        "title": "Aggiornamento 4",
-        "description": "Dettagli aggiornamento 4."
-    }
-    {
-        "title": "Aggiornamento 5",
-        "description": "Dettagli aggiornamento 5. alkshjdjkashdasljkdhaòjkdsfhljkasdhflkjasdghfjlksdghfjk sdfkhsda pifhsdfhshdfj sdkf jhlkdsjhfjksdf jksdfhlkjsdfkjdsjkfhdsf sd kjfh sdkhf kjsd fk jsdlhkf djsf hsd f dsf sd f d hf hsd fh dsfh ds f hsd fh h f sdhf h dshfh sdf  hds fsdfh dsf sd  s df  ds f sdfsdkjhf  f hs fh sdf dsfhj  ",
-        "image": ""
-    },
-    {
-        "title": "Aggiornamento 6",
-        "description": "Dettagli aggiornamento 6."
-    }
-  
+  {
+    "title": "Aggiornamento 1",
+    "description": "Dettagli aggiornamento 1.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "title": "Aggiornamento 2",
+    "description": "Dettagli aggiornamento 2.",
+    "image": null
+  }
 ]
-
